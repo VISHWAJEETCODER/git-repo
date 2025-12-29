@@ -1,4 +1,4 @@
 # git-repo
 <br>
-my first git repo learning
+my first git repo learnin
 </br>
